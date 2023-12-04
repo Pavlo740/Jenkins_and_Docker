@@ -13,6 +13,8 @@ function App() {
         <header className="App-header">
         <h1>{`${surname} ${firstName} ${group} навчальна група`}</h1>
         <p>Hello Word!!!</p>
+        <p>Hello Word!!!</p>
+        <p>Hello Word!!!</p>
       </header>
       </header>
     </div>
