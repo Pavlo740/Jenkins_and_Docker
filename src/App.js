@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   const surname = 'Дикий';
   const firstName = 'Павло';
-  const group = '203';
+  const group = '20333';
 
   return (
     <div className="App">
