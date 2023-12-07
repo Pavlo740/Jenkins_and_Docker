@@ -12,7 +12,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <header className="App-header">
         <h1>{`${surname} ${firstName} ${group} навчальна група`}</h1>
-
+        <p>Hello JENKINS</p>
       </header>
       </header>
     </div>
